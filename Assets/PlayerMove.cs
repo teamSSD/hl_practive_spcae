@@ -8,6 +8,12 @@ public class PlayerMove : MonoBehaviour
     [Space(20)]
     [SerializeField]
     private Vector3 moveDirection;
+
+    private Rigidbody2D rigid2d;
+    private void Awake()
+    {
+        rigid2d = GetComponent<Rigidbody2D>();
+    }
     void Update()
     {
         moveDirection = Vector3.zero;
@@ -18,11 +24,11 @@ public class PlayerMove : MonoBehaviour
 
         if ( Input.GetKey(KeyCode.LeftShift) )
         {
-            transform.position += moveDirection * moveSpeed * 2 * Time.deltaTime;
+            rigid2d.linearVelocity = moveDirection * moveSpeed * 2;
         }
         else
         {
-            transform.position += moveDirection * moveSpeed * Time.deltaTime;
+            rigid2d.linearVelocity = moveDirection * moveSpeed;
         }
     }
 }
