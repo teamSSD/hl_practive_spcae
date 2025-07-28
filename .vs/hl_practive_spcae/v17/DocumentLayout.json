@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|c:\\users\\pho50\\desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\github\\hl_practive_spcae\\assets\\ontrigger2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|solutionrelative:assets\\ontrigger2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|c:\\users\\pho50\\desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\github\\hl_practive_spcae\\assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|solutionrelative:assets\\objectspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|c:\\users\\pho50\\desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\github\\hl_practive_spcae\\assets\\oncollision2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|c:\\users\\pho50\\desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\github\\hl_practive_spcae\\assets\\objectdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|solutionrelative:assets\\objectdestroyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\assets\\oncollision2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|solutionrelative:assets\\oncollision2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\assets\\ontrigger2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|solutionrelative:assets\\ontrigger2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9289ACFD-EA67-FA5C-CA8A-FFC4A59E16A5}|Assembly-CSharp.csproj|C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\assets\\playermove.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ObjectDestroyer.cs",
+              "DocumentMoniker": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\ObjectDestroyer.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectDestroyer.cs",
+              "ToolTip": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\ObjectDestroyer.cs",
+              "RelativeToolTip": "Assets\\ObjectDestroyer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:42:45.627Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ObjectSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\ObjectSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\ObjectSpawner.cs",
+              "ToolTip": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\ObjectSpawner.cs",
+              "RelativeToolTip": "Assets\\ObjectSpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T05:26:50.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "OnTrigger2D.cs",
               "DocumentMoniker": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\OnTrigger2D.cs",
               "RelativeDocumentMoniker": "Assets\\OnTrigger2D.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Assets\\OnTrigger2D.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:25:34.197Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:25:34.197Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "OnCollision2D.cs",
               "DocumentMoniker": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\OnCollision2D.cs",
               "RelativeDocumentMoniker": "Assets\\OnCollision2D.cs",
@@ -47,12 +80,11 @@
               "RelativeToolTip": "Assets\\OnCollision2D.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T11:16:20.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T11:16:20.026Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "PlayerMove.cs",
               "DocumentMoniker": "C:\\Users\\pho50\\Desktop\\\uD3B8\uC9D1\\\uCF54\uB529\\Github\\hl_practive_spcae\\Assets\\PlayerMove.cs",
               "RelativeDocumentMoniker": "Assets\\PlayerMove.cs",
